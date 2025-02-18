@@ -12,7 +12,6 @@ git submodule add https://github.com/better-rs/learn-rs.git rust/learn-rs
 git submodule add https://github.com/chengyli/training.git ebpf/training
 git submodule add https://github.com/ctjhoa/rust-learning.git rust/rust-learning
 git submodule add https://github.com/draveness/go-internal.git go/go-internal
-git submodule add https://github.com/draveness/linux-archive.git linux/linux-archive
 git submodule add https://github.com/eunomia-bpf/bpf-developer-tutorial.git ebpf/bpf-developer-tutorial
 git submodule add https://github.com/feiskyer/ebpf-apps.git ebpf/ebpf-apps
 git submodule add https://github.com/ffhelicopter/Go42.git go/Go42
