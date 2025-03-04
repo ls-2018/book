@@ -1,0 +1,141 @@
+[submodule "go/go-awesome"]
+	path = go/go-awesome
+	url = https://github.com/shockerli/go-awesome.git
+[submodule "go/Go42"]
+	path = go/Go42
+	url = https://github.com/ffhelicopter/Go42.git
+[submodule "go/under-the-hood"]
+	path = go/under-the-hood
+	url = https://github.com/golang-design/under-the-hood.git
+[submodule "ebpf/iptables-trace"]
+	path = ebpf/iptables-trace
+	url = https://github.com/ls-2018/iptables-trace.git
+[submodule "ebpf/go-nftables-demo"]
+	path = ebpf/go-nftables-demo
+	url = https://github.com/ymm135/go-nftables-demo.git
+[submodule "ebpf/training"]
+	path = ebpf/training
+	url = https://github.com/chengyli/training.git
+[submodule "ebpf/ntk148v.github.io"]
+	path = ebpf/ntk148v.github.io
+	url = https://github.com/ntk148v/ntk148v.github.io.git
+[submodule "ebpf/linux-network-performance-parameters"]
+	path = ebpf/linux-network-performance-parameters
+	url = https://github.com/leandromoreira/linux-network-performance-parameters.git
+[submodule "go/go-questions"]
+	path = go/go-questions
+	url = https://github.com/golang-design/go-questions.git
+[submodule "linux/linux-archive"]
+	path = linux/linux-archive
+	url = https://github.com/draveness/linux-archive.git
+[submodule "go/go-internal"]
+	path = go/go-internal
+	url = https://github.com/draveness/go-internal.git
+[submodule "rust/rust-course"]
+	path = rust/rust-course
+	url = https://github.com/sunface/rust-course.git
+[submodule "rust/awesome-rust"]
+	path = rust/awesome-rust
+	url = https://github.com/rust-unofficial/awesome-rust.git
+[submodule "rust/book"]
+	path = rust/book
+	url = https://github.com/rust-lang/book.git
+[submodule "rust/rust-learning"]
+	path = rust/rust-learning
+	url = https://github.com/ctjhoa/rust-learning.git
+[submodule "rust/rust-by-example"]
+	path = rust/rust-by-example
+	url = https://github.com/rust-lang/rust-by-example.git
+[submodule "rust/rust-by-practice"]
+	path = rust/rust-by-practice
+	url = https://github.com/sunface/rust-by-practice.git
+[submodule "rust/100-exercises-to-learn-rust"]
+	path = rust/100-exercises-to-learn-rust
+	url = https://github.com/mainmatter/100-exercises-to-learn-rust.git
+[submodule "rust/easy_rust"]
+	path = rust/easy_rust
+	url = https://github.com/Dhghomon/easy_rust.git
+[submodule "ebpf/retis"]
+	path = ebpf/retis
+	url = https://github.com/retis-org/retis.git
+[submodule "ebpf/datadog-agent"]
+	path = ebpf/datadog-agent
+	url = https://github.com/DataDog/datadog-agent.git
+[submodule "ebpf/inspektor-gadget"]
+	path = ebpf/inspektor-gadget
+	url = https://github.com/inspektor-gadget/inspektor-gadget.git
+[submodule "ebpf/learning-ebpf"]
+	path = ebpf/learning-ebpf
+	url = https://github.com/lizrice/learning-ebpf.git
+[submodule "ebpf/ebpf-examples"]
+	path = ebpf/ebpf-examples
+	url = https://github.com/CenturionInfoSec/ebpf-examples.git
+[submodule "ebpf/learn-by-example"]
+	path = ebpf/learn-by-example
+	url = https://github.com/Asphaltt/learn-by-example.git
+[submodule "ebpf/ebpf_demo"]
+	path = ebpf/ebpf_demo
+	url = https://github.com/jelipo/ebpf_demo.git
+[submodule "ebpf/iptables-tracer"]
+	path = ebpf/iptables-tracer
+	url = https://github.com/x-way/iptables-tracer.git
+[submodule "ebpf/ebpf-networking"]
+	path = ebpf/ebpf-networking
+	url = https://github.com/lizrice/ebpf-networking.git
+[submodule "ebpf/socketrace"]
+	path = ebpf/socketrace
+	url = https://github.com/Asphaltt/socketrace.git
+[submodule "ebpf/bpf-developer-tutorial"]
+	path = ebpf/bpf-developer-tutorial
+	url = https://github.com/eunomia-bpf/bpf-developer-tutorial.git
+[submodule "ebpf/kyanos"]
+	path = ebpf/kyanos
+	url = https://github.com/hengyoush/kyanos.git
+[submodule "ebpf/ebpf-slide"]
+	path = ebpf/ebpf-slide
+	url = https://github.com/gojue/ebpf-slide.git
+[submodule "ebpf/hello-libbpfgo"]
+	path = ebpf/hello-libbpfgo
+	url = https://github.com/mozillazg/hello-libbpfgo.git
+[submodule "go/golang101"]
+	path = go/golang101
+	url = https://github.com/golang101/golang101.git
+[submodule "go/golangFamily"]
+	path = go/golangFamily
+	url = https://github.com/xiaobaiTech/golangFamily.git
+[submodule "go/aceld_golang"]
+	path = go/aceld_golang
+	url = https://github.com/aceld/golang.git
+[submodule "rust/learn-rs"]
+	path = rust/learn-rs
+	url = https://github.com/better-rs/learn-rs.git
+[submodule "rust/better-rs.github.io"]
+	path = rust/better-rs.github.io
+	url = https://github.com/better-rs/better-rs.github.io.git
+[submodule "go/golang-minibear2333_golang"]
+	path = go/golang-minibear2333_golang
+	url = https://github.com/golang-minibear2333/golang.git
+[submodule "ebpf/ebpf-apps"]
+	path = ebpf/ebpf-apps
+	url = https://github.com/feiskyer/ebpf-apps.git
+[submodule "go/aceld@golang"]
+	path = go/aceld@golang
+	url = https://github.com/aceld/golang.git
+[submodule "go/golang-minibear2333@golang"]
+	path = go/golang-minibear2333@golang
+	url = https://github.com/golang-minibear2333/golang.git
+[submodule "ebpf/bpf-inside"]
+	path = ebpf/bpf-inside
+	url = https://github.com/mannkafai/bpf-inside.git
+[submodule "ebpf/bpf-perf-tools-book"]
+	path = ebpf/bpf-perf-tools-book
+	url = https://github.com/brendangregg/bpf-perf-tools-book.git
+[submodule "go/ethtool"]
+	path = go/ethtool
+	url = https://github.com/safchain/ethtool.git
+[submodule "go/netlink"]
+	path = go/netlink
+	url = https://github.com/vishvananda/netlink.git
+[submodule "k8s/summary"]
+	path = k8s/summary
+	url = https://github.com/elihe2011/summary.git
